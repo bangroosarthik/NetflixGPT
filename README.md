@@ -9,6 +9,18 @@
 - Header
 - Login Form 
 - SignUp Form 
+- Form Validation
+- useRef Hook 
+- Firebase Setup
+- Deploying App on Production
+- Create Signup User Account
+- Implement Sign In user API
+- Created Redux Store with User Slice
+- Implemented Sign Out
+- Update Profile Call API's
+- Fetch From TMDB Movies
+- Register TMDB Website and create an api key 
+- get data from TMDB now playing movies list
 
 # Features
 - Login/Signup page
