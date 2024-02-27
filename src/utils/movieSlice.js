@@ -1,6 +1,4 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { act } from "react-dom/test-utils";
-
 const moviesSlice=createSlice({
     name:"movies",
     initialState: {

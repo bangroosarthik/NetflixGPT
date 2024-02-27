@@ -22,6 +22,9 @@
 - Register TMDB Website and create an api key 
 - get data from TMDB now playing movies list
 - Custom Hooks for Now Playing, TopRated, Upcoming, Popular Movies
+- GPT Search Feature
+
+    
 # Features
 - Login/Signup page
     - Signup 
